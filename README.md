@@ -27,3 +27,10 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 * Sort the DataFrame values by `date`.
 
 * Plot the results using the DataFrame `plot` method.
+
+
+### Station Analysis
+
+* Design a query to calculate the total number of stations.
+
+
